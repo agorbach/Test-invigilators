@@ -1,0 +1,9 @@
+﻿InvigilatorID,FirstName,LastName,IDNumber,Phone,Email,City,Active,Seniority,MaxDailyHours,MaxWeeklyHours,CanRead,QuietRoomApproved,ComputerExamApproved,ArabicSpeaker,EnglishSpeaker,DrivingLicense,AvailableDays,UnavailableDates,PreferredShift,ColorCode,Notes
+2001,שרה,כהן,123456789,0501111111,sara@example.com,חיפה,Yes,5,8,30,Yes,Yes,No,No,Yes,Yes,"Sun,Mon,Tue",2026-06-21,Morning,Green,
+2002,מוחמד,עלי,223456789,0502222222,mohamad@example.com,עכו,Yes,8,10,40,Yes,Yes,Yes,Yes,No,Yes,"Mon,Tue,Wed",,Flexible,Blue,דובר ערבית
+2003,יעל,דוד,323456789,0503333333,yael@example.com,נהריה,Yes,2,6,20,No,No,Yes,No,Yes,No,"Sun,Thu",2026-06-20,Evening,Yellow,
+2004,דניאל,לוי,423456789,0504444444,daniel@example.com,כרמיאל,Yes,10,12,45,Yes,Yes,Yes,No,Yes,Yes,All,,Flexible,Purple,מקריא מוסמך
+2005,חנה,ביטון,523456789,0505555555,hana@example.com,עכו,No,4,8,25,No,No,No,No,No,Yes,"Tue,Wed",2026-06-22,Morning,Gray,לא פעילה כרגע
+2006,אמיר,חדד,623456789,0506666666,amir@example.com,חיפה,Yes,6,8,32,Yes,No,Yes,No,Yes,Yes,"Mon,Tue,Fri",,Morning,Green,
+2007,לינה,סאלם,723456789,0507777777,lina@example.com,נצרת,Yes,7,9,35,Yes,Yes,No,Yes,Yes,No,All,2026-06-23,Flexible,Blue,
+2008,אורן,מלכה,823456789,0508888888,oren@example.com,קריות,Yes,1,5,15,No,No,Yes,No,Yes,Yes,"Sun,Mon",,Evening,Yellow,חדש

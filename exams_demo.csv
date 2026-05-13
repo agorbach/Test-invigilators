@@ -1,0 +1,9 @@
+﻿ExamID,CourseCode,CourseName,Lecturer,ExamDate,StartTime,EndTime,Moed,Building,Room,StudentsCount,NeedsReader,QuietRoom,ComputerExam,SpecialNeeds,ExtraTime,Language,Priority,Notes
+1001,CS101,מבוא למדעי המחשב,"ד""ר כהן",2026-06-20,09:00,12:00,A,A,101,45,No,No,Yes,No,25%,Hebrew,High,
+1002,MATH205,סטטיסטיקה,"ד""ר לוי",2026-06-20,13:00,16:00,A,B,203,80,Yes,Yes,No,Yes,50%,Hebrew,High,חדר שקט
+1003,ENG110,Academic English,John Smith,2026-06-20,09:00,11:00,A,C,305,30,No,No,No,No,0%,English,Medium,
+1004,LAW310,דיני חוזים,"עו""ד רון",2026-06-21,10:00,13:30,B,A,201,120,Yes,Yes,No,Yes,25%,Hebrew,Critical,
+1005,CS450,AI Fundamentals,Alex Gorbachev,2026-06-21,14:00,17:00,B,D,Lab1,60,No,No,Yes,No,0%,Hebrew,High,מעבדת מחשבים
+1006,BIO220,ביולוגיה כללית,"ד""ר פרץ",2026-06-22,08:30,11:30,A,B,110,55,No,No,No,No,0%,Hebrew,Medium,
+1007,AR101,ערבית מדוברת,"ד""ר חאלד",2026-06-22,12:00,15:00,C,C,210,25,Yes,Yes,No,Yes,50%,Arabic,High,
+1008,PSY150,פסיכולוגיה חברתית,"ד""ר רותם",2026-06-23,09:00,12:00,A,A,105,70,No,No,No,No,25%,Hebrew,Medium,
