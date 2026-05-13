@@ -264,23 +264,8 @@ prompt.txt
 - [Google AI Studio](https://aistudio.google.com?utm_source=chatgpt.com)
 - [Cursor](https://www.cursor.com?utm_source=chatgpt.com)
 - [StackBlitz](https://stackblitz.com?utm_source=chatgpt.com)
-- [Replit](https://replit.com?utm_source=chatgpt.com)
-- [GitHub Copilot](https://github.com/features/copilot?utm_source=chatgpt.com)
 
 ---
-
-# שקף משופר לתרגיל
-
-## תרגיל 2 — Prompt Engineering
-
-כתבו Prompt מקצועי שיגרום לכלי AI לבנות מערכת אמיתית לניהול משגיחים במכללה.
-
-המטרה:
-- עבודה נכונה עם AI
-- כתיבת Prompts מקצועיים
-- בניית מערכת מבוססת Requirements
-- Iteration ושיפור תוצאות
-
 הגישו:
 - Prompt מלא
 - קישור לפרויקט
